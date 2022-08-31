@@ -223,5 +223,4 @@ img {
 .listado-modelos {
     display: flex;
     flex-direction: column-reverse;
-    display: none;
 }
