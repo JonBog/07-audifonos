@@ -70,7 +70,7 @@ img {
 /* Header */
 .header {
     background-color: var(--negro);
-    padding: calc(var(--separacion) *3) 0;
+    padding: calc(var(--separacion)) 0;
     color: var(--blanco);
 }
 
