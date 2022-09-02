@@ -365,7 +365,7 @@ img {
 .contenido-newsletter {
     display: grid;
     grid-template-rows:repeat(2, 40.5rem);
-    gap: var(--separacion);
+    gap: calc(var(--separacion) /2);
 }
 
 @media (min-width: 768px) { 
