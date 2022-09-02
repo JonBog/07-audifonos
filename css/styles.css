@@ -153,13 +153,14 @@ img {
     color: var(--primario);
     text-transform: uppercase;
     margin-top: calc( var(--separacion) /2);
+    text-align: center;
 }
 
 /* Sobre Los TechPRO */
 .sobre-tech{
     background-position: right;
     background-repeat: repeat, no-repeat;
-    background-size: 100% , 110rem;
+    background-size: 100% , cover;
 }
 .notavif.notwebp .sobre-tech{
     background-image: linear-gradient( to bottom, transparent 50%, var(--primario) 0%), url(../img/imagen-mujer.jpg);
