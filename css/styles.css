@@ -189,7 +189,7 @@ img {
 }
 .sobre-tech-grid {
     display: grid;
-    grid-template-rows: repeat(2, 40rem);
+    grid-template-rows: repeat(2, 45rem);
     row-gap: var(--separacion);
 }
 
